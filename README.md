@@ -16,6 +16,18 @@ Or install it yourself as:
 
     $ gem install structures
 
+## LinkedList
+
+    list = new LinkedList.new
+
+    list.add "One"
+    list.add 2
+    list.add 3
+
+    list.each do |item|
+      puts item
+    end
+
 ## Contributing
 
 1. Fork it

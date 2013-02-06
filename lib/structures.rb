@@ -1,5 +1,4 @@
 require "structures/version"
+require "structures/linked_list"
 
-module Structures
-  # Your code goes here...
-end
+module Structures; end
